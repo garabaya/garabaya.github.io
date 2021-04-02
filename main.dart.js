@@ -51298,84 +51298,84 @@ else for(s=t.l,r=0;r<6;++r)o.fB(new Z.di(0,0,1,100,100,new T.dS(M.bn(p,p,C.aP,p,
 for(s=t.l,r=0;r<P.dA(q.e,p);++r)o.fB(new Z.di(0,0,1,100,100,new T.dS(M.bn(p,p,C.ax,p,p,p,p,p,p),p),!0,s))},
 hT:function(a,b){var s,r,q,p,o,n
 for(s=this.dx.b,r=s.length,q=1,p=1,o=0;o<r;++o){n=s[o]
-if(n.r){switch(q){case 1:n.a=a*0.08
-n.b=b*0.03
+if(n.r){switch(q){case 1:n.a=a*0.1
+n.b=b*0.05
 break
-case 2:n.a=a*0.09
-n.b=b*0.3
+case 2:n.a=a*0.15
+n.b=b*0.45
 break
-case 3:n.a=a*0.46
+case 3:n.a=a*0.63
+n.b=b*0.65
+break
+case 4:n.a=a*1.1
+n.b=b*0.45
+break
+case 5:n.a=a*1.15
+n.b=b*0.05
+break
+case 6:if(this.e==="6"){n.a=a*0.42
+n.b=b*0.25}else{n.a=a*0.42
+n.b=b*0.25}break
+case 7:n.a=a*0.85
+n.b=b*0.25
+break}++q}else{if(p===1){n.a=a*0.22
+n.b=b*0.15}else if(p===2){n.a=a*1.05
+n.b=b*0.15}else switch(this.f){case"6:0":switch(p){case 3:n.a=a*0.37
+n.b=b*0.26
+break
+case 4:n.a=a*0.92
+n.b=b*0.26
+break
+case 5:n.a=a*0.55
+n.b=b*0.28
+break
+case 6:n.a=a*0.75
+n.b=b*0.28
+break}break
+case"5:1":switch(p){case 3:n.a=a*0.37
+n.b=b*0.26
+break
+case 4:n.a=a*0.92
+n.b=b*0.26
+break
+case 5:n.a=a*0.63
+n.b=b*0.28
+break
+case 6:n.a=a*0.63
+n.b=b*0.45
+break}break
+case"4:2":switch(p){case 3:n.a=a*0.37
+n.b=b*0.26
+break
+case 4:n.a=a*0.92
+n.b=b*0.26
+break
+case 5:n.a=a*0.22
 n.b=b*0.4
 break
-case 4:n.a=a*0.85
-n.b=b*0.3
-break
-case 5:n.a=a*0.85
-n.b=b*0.03
-break
-case 6:if(this.e==="6"){n.a=a*0.32
-n.b=b*0.18}else{n.a=a*0.32
-n.b=b*0.18}break
-case 7:n.a=a*0.59
-n.b=b*0.18
-break}++q}else{if(p===1){n.a=a*0.14
-n.b=b*0.08}else if(p===2){n.a=a*0.78
-n.b=b*0.08}else switch(this.f){case"6:0":switch(p){case 3:n.a=a*0.25
-n.b=b*0.15
-break
-case 4:n.a=a*0.65
-n.b=b*0.16
-break
-case 5:n.a=a*0.386
-n.b=b*0.18
-break
-case 6:n.a=a*0.53
-n.b=b*0.18
+case 6:n.a=a*0.63
+n.b=b*0.45
 break}break
-case"5:1":switch(p){case 3:n.a=a*0.25
-n.b=b*0.15
+case"3:3":switch(p){case 3:n.a=a*0.63
+n.b=b*0.28
 break
-case 4:n.a=a*0.65
-n.b=b*0.16
+case 4:n.a=a*0.22
+n.b=b*0.4
 break
-case 5:n.a=a*0.48
-n.b=b*0.18
+case 5:n.a=a
+n.b=b*0.4
 break
-case 6:n.a=a*0.48
-n.b=b*0.3
+case 6:n.a=a*0.63
+n.b=b*0.45
 break}break
-case"4:2":switch(p){case 3:n.a=a*0.25
-n.b=b*0.15
+case"5:0":switch(p){case 3:n.a=a*0.37
+n.b=b*0.26
 break
-case 4:n.a=a*0.65
-n.b=b*0.16
+case 4:n.a=a*0.92
+n.b=b*0.26
 break
-case 5:n.a=a*0.18
-n.b=b*0.25
-break
-case 6:n.a=a*0.48
-n.b=b*0.3
-break}break
-case"3:3":switch(p){case 3:n.a=a*0.48
-n.b=b*0.18
-break
-case 4:n.a=a*0.18
-n.b=b*0.25
-break
-case 5:n.a=a*0.78
-n.b=b*0.25
-break
-case 6:n.a=a*0.48
-n.b=b*0.3
-break}break
-case"5:0":switch(p){case 3:n.a=a*0.25
-n.b=b*0.15
-break
-case 4:n.a=a*0.65
-n.b=b*0.16
-break
-case 5:n.a=a*0.48
-n.b=b*0.18
+case 5:n.a=a*0.63
+n.b=b*0.28
 break}break}++p}}},
 q:function(a){var s=this.dx
 s.a.cY(0)
