@@ -37,7 +37,7 @@
   "POSICIONAL": "POSICIONAL",
   "CONTRAATAQUE": "CONTRAATAQUE",
   "GOL": "GOL",
-  "PÉRDIDA": "PERDIDA",
+  "PÉRDIDA": "PÉRDIDA",
   "PARADA": "PARADA",
   "FUERA": "FUERA",
   "SIN PORTERO": "SIN PORTERO",
@@ -60,5 +60,18 @@
   "No se ha podido guardar el partido": "No se ha podido guardar el partido",
   "Datos exportados con éxito": "Datos exportados con éxito (carpeta de descargas)",
   "No se ha podido exportar los datos": "No se han podido exportar los datos",
-  "Valor de referencia": "Valor de referencia"
+  "Valor de referencia": "Valor de referencia",
+  "Estadísticas individuales": "Estadísticas individuales",
+  "Expandir pantalla": "Expandir pantalla",
+  "Porteros": "Porteros",
+  "Jugadores": "Jugadores",
+  "Lanzamientos": "Lanzamientos",
+  "Pérdidas": "Pérdidas",
+  "Recuperaciones": "Recuperaciones",
+  "Errores defensivos": "Errores defensivos",
+  "Paradas": "Paradas",
+  "Nombre": "Nombre",
+  "Goles": "Goles",
+  "Portero": "Portero",
+  "Recuperación": "Recuperación"
 }

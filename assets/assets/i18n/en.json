@@ -60,5 +60,18 @@
   "No se ha podido guardar el partido": "Match couldn't be saved",
   "Datos exportados con éxito": "Data exported (Downloads folder)",
   "No se ha podido exportar los datos": "Data couldn't be exported",
-  "Valor de referencia": "Reference value"
+  "Valor de referencia": "Reference value",
+  "Estadísticas individuales": "Individual Statistics",
+  "Expandir pantalla": "Expanded screen",
+  "Porteros": "Goalkeapers",
+  "Jugadores": "Players",
+  "Lanzamientos": "Shots",
+  "Pérdidas": "Turnovers",
+  "Recuperaciones": "Recoveries",
+  "Errores defensivos": "Defensive mistakes",
+  "Paradas": "Saves",
+  "Nombre": "Name",
+  "Goles": "Goals",
+  "Portero": "Goalkeeper",
+  "Recuperación": "Recovery"
 }
