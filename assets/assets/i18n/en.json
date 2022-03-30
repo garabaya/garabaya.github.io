@@ -73,5 +73,9 @@
   "Nombre": "Name",
   "Goles": "Goals",
   "Portero": "Goalkeeper",
-  "Recuperación": "Recovery"
+  "Recuperación": "Recovery",
+  "JUGADORES HOME IMPLICADOS": "ENVOLVED HOME PLAYERS",
+  "JUGADORES GUEST IMPLICADOS": "ENVOLVED GUEST PLAYERS",
+  "PORTERO HOME": "HOME GOALKEEPER",
+  "PORTERO GUEST": "GUEST GOALKEEPER"
 }
