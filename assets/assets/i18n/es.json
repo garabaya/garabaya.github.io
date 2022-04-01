@@ -77,5 +77,9 @@
   "JUGADORES HOME IMPLICADOS": "JUGADORES HOME IMPLICADOS",
   "JUGADORES GUEST IMPLICADOS": "JUGADORES GUEST IMPLICADOS",
   "PORTERO HOME": "PORTERO HOME",
-  "PORTERO GUEST": "PORTERO GUEST"
+  "PORTERO GUEST": "PORTERO GUEST",
+  "Alineación": "Alineación",
+  "No se han podido cargar los datos": "No se han podido cargar los datos",
+  "Equipo guardado con éxito": "Equipo guardado con éxito (carpeta descargas/teams)",
+  "No se ha podido guardar el equipo": "No se ha podido guardar el equipo"
 }
