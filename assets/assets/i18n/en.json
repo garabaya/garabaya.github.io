@@ -56,9 +56,9 @@
   "¿Desea continuar?": "Continue?",
   "Sí": "Yes",
   "No": "No",
-  "Partido guardado con éxito": "Match saved (Downloads folder)",
+  "Partido guardado con éxito": "Match saved (folder Downloads/Handball_Tactical_Board)",
   "No se ha podido guardar el partido": "Match couldn't be saved",
-  "Datos exportados con éxito": "Data exported (Downloads folder)",
+  "Datos exportados con éxito": "Data exported (folder Downloads/Handball_Tactical_Board/Exports)",
   "No se ha podido exportar los datos": "Data couldn't be exported",
   "Valor de referencia": "Reference value",
   "Estadísticas individuales": "Individual Statistics",
@@ -80,6 +80,8 @@
   "PORTERO GUEST": "GUEST GOALKEEPER",
   "Alineación": "Roster",
   "No se han podido cargar los datos": "No data could be loaded",
-  "Equipo guardado con éxito": "Team saved (Downloads/teams folder)",
-  "No se ha podido guardar el equipo": "Team couldn't be saved"
+  "Equipo guardado con éxito": "Team saved (folder Downloads/Handball_Tactical_Board/Teams)",
+  "No se ha podido guardar el equipo": "Team couldn't be saved",
+  "Anotar errores defensivos": "Record defensive mistakes",
+  "Sin especificar": "Unassigned player"
 }

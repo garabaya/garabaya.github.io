@@ -56,9 +56,9 @@
   "¿Desea continuar?": "¿Desea continuar?",
   "Sí": "Sí",
   "No": "No",
-  "Partido guardado con éxito": "Partido guardado con éxito (carpeta de descargas)",
+  "Partido guardado con éxito": "Partido guardado con éxito (carpeta de descargas/Handball_Tactical_Board)",
   "No se ha podido guardar el partido": "No se ha podido guardar el partido",
-  "Datos exportados con éxito": "Datos exportados con éxito (carpeta de descargas)",
+  "Datos exportados con éxito": "Datos exportados con éxito (carpeta de descargas/Handball_Tactical_Board/Exports)",
   "No se ha podido exportar los datos": "No se han podido exportar los datos",
   "Valor de referencia": "Valor de referencia",
   "Estadísticas individuales": "Estadísticas individuales",
@@ -80,6 +80,8 @@
   "PORTERO GUEST": "PORTERO GUEST",
   "Alineación": "Alineación",
   "No se han podido cargar los datos": "No se han podido cargar los datos",
-  "Equipo guardado con éxito": "Equipo guardado con éxito (carpeta descargas/teams)",
-  "No se ha podido guardar el equipo": "No se ha podido guardar el equipo"
+  "Equipo guardado con éxito": "Equipo guardado con éxito (carpeta descargas/Handball_Tactical_Board/Teams)",
+  "No se ha podido guardar el equipo": "No se ha podido guardar el equipo",
+  "Anotar errores defensivos": "Anotar errores defensivos",
+  "Sin especificar": "Jugador sin asignar"
 }
