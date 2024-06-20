@@ -83,5 +83,15 @@
   "Equipo guardado con éxito": "Equipo guardado con éxito (carpeta descargas/Handball_Tactical_Board/Teams)",
   "No se ha podido guardar el equipo": "No se ha podido guardar el equipo",
   "Anotar errores defensivos": "Anotar errores defensivos",
-  "Sin especificar": "Jugador sin asignar"
+  "Sin especificar": "Jugador sin asignar",
+  "TEAM": "EQUIPO",
+  "Gol de 1ª oleada": "Gol de 1º oleada",
+  "Pérdida en 1ª oleada": "Pérdida en 1ª oleada",
+  "Fuera en 1ª oleada": "Fuera en 1ª oleada",
+  "Parada en 1ª oleada": "Parada en 1ª oleada",
+  "Goles en 1ª oleada: ": "...de los cuales en 1ª oleada: ",
+  "Sin 1ª oleada: ": "Sin 1ª oleada: ",
+  "Dorsal": "Dorsal",
+  "Ajuste del reloj": "Ajuste del reloj",
+  "Paradas con rechace ofensivo: ": "...de las cuales con rechace ofensivo: "
 }

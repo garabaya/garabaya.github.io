@@ -28,6 +28,9 @@
 
   <title>mirror_tactical_board</title>
   <link rel="manifest" href="manifest.json">
+  <script src="splash/splash.js"></script>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+  <link rel="stylesheet" type="text/css" href="splash/style.css">
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -36,7 +39,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=589060715');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3398061166');
       });
     }
   </script>

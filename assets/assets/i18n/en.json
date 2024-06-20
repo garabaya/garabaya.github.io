@@ -83,5 +83,15 @@
   "Equipo guardado con éxito": "Team saved (folder Downloads/Handball_Tactical_Board/Teams)",
   "No se ha podido guardar el equipo": "Team couldn't be saved",
   "Anotar errores defensivos": "Record defensive mistakes",
-  "Sin especificar": "Unassigned player"
+  "Sin especificar": "Unassigned player",
+  "TEAM": "TEAM",
+  "Gol de 1ª oleada": "1st wave goal",
+  "Pérdida en 1ª oleada": "1st wave loss",
+  "Fuera en 1ª oleada": "1st wave out",
+  "Parada en 1ª oleada": "1st wave save",
+  "Goles en 1ª oleada: ": "...of which 1st wave: ",
+  "Sin 1ª oleada: ": "W/o 1st wave: ",
+  "Dorsal": "Number",
+  "Ajuste del reloj": "Chrono Setup",
+  "Paradas con rechace ofensivo: ": "...of which with attack rebound: "
 }
